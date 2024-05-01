@@ -1,4 +1,4 @@
-# stone-paper-scissor-classifier
+
 # Stone, Paper, Scissors Image Classification
 
 This project demonstrates image classification of stone, paper, and scissor using a machine learning model trained with Teachable Machine, provided by Google. The code creates a simple web interface where users can activate their webcam and see real-time predictions of the model.
